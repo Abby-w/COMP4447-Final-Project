@@ -6,14 +6,35 @@ Repository for final group project for Data Science Tools 1
 - Arun Joseph
 - Navan Powers
 
-## Dataset and motivation slide (1 points)
-- How/why the dataset was collected and a description of the metadata of your dataset.
+## Dataset 
+This dataset came from an online survey at askamanager.org (https://www.askamanager.org/2021/04/how-much-money-do-you-make-4.html) . The goal of this survey was to take the mystery out of salaries and allow people to see how much others were actually making. There are 17 variables consisting of: 
+Timestamp	
+How old are you?	
+Industry	
+Job title	
+Additional context on job title	
+Annual salary	
+Other monetary comp	
+Currency	
+Currency - other	
+Additional context on income	
+Country	
+State	
+City	
+Overall years of professional experience	
+Years of experience in field	
+Highest level of education completed
+Gender	
+Race		
 
-## Actual task definition/research question (2 points)
-- What real-world problem are you trying to solve? What are the input and output of your analysis?
+This dataset was downloaded from https://docs.google.com/spreadsheets/d/1IPS5dBSGtwYVbjsfbaMCYIWnOuRmJcbequohNxCyGVw/edit?resourcekey#gid=1625408792. At the time the dataset was downloaded for use in this analysis there were 27680 responses. 				
+
+## Research Question
+How accurately can salary be predicted based on the features in this dataset? What are the best predictors of salary? 
 
 ## Literature review (2 points)
 - What other work has been done in this area, and how is your work novel compared to others?
+There has been a study to predict the salary of healthcare workers across WHO countries. Our work is different than this study, because our salary includes all types of income including non-conventional earnings. Additionally, 
 
 ## Quality of cleaning (6 points, 2 points each)
 - Data cleaning and type conversion activity. Please share anything unusual you faced during this activity.
