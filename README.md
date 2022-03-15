@@ -1,6 +1,9 @@
 # COMP4447-Final-Project
 Repository for final group project for Data Science Tools 1
 
+### Program functionality
+Data_cleaning file must be run before the Data_analysis file. 
+
 ### GROUP MEMBERS
 - Abigail Ward
 - Arun Joseph
