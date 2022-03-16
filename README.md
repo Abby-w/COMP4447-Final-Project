@@ -36,7 +36,7 @@ This dataset was downloaded from https://docs.google.com/spreadsheets/d/1IPS5dBS
 How accurately can salary be predicted based on the features in this dataset? What are the best predictors of salary? 
 
 ### Literature review
-This work is different than other studies, because our salary includes all types of income including non-conventional earnings. Additionally, there is a strong bias in this dataset toward women and US citizens. 
+This work is different than other studies, because our salary includes all types of income including non-conventional earnings. Additionally, there is a strong bias in this dataset toward white women and US citizens. 
 
 ### Quality of cleaning 
 Many of the fields in this dataset were free-text that needed to be filtered into specific categories. Title and Industry required NLP to breakdown the text into its core topics. Salary needed to account for people who entered improbable values and conversioin into a common currrency. Location such as city and state were used to fill in missing values in country. 
