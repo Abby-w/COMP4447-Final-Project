@@ -531,6 +531,7 @@ Salary (USD),Job title_Bin,Industry,Country,Race_Bin,Age,Gender_Bin,Highest leve
 40000.0,Management,"tech,business",USA,White,25-34,Woman,College degree,5
 69900.0,Non-Managerial Employee,business,USA,White,45-54,Woman,College degree,21
 58000.0,Non-Managerial Employee,nonprofit,USA,White,25-34,Woman,Master's degree,8
+66000.0,Non-Managerial Employee,"tech,business",USA,White,25-34,Woman,College degree,5
 66000.0,Management,manufacturing,USA,White,35-44,Man,Master's degree,8
 54000.0,Management,nonprofit,USA,White,35-44,Woman,College degree,11
 85000.0,Management,tech,USA,White,25-34,Woman,Some college,5
@@ -1131,6 +1132,7 @@ Salary (USD),Job title_Bin,Industry,Country,Race_Bin,Age,Gender_Bin,Highest leve
 98500.0,Non-Managerial Employee,finance,USA,White,55-64,Woman,College degree,11
 160000.0,Director,business,USA,White,35-44,Woman,College degree,21
 33027.345,Non-Managerial Employee,healthcare,UK,White,35-44,Woman,High School,11
+74000.0,Management,property,USA,White,35-44,Woman,Master's degree,11
 140000.0,Non-Managerial Employee,property,USA,White,35-44,Woman,Master's degree,8
 51545.116794600006,Management,education,UK,White,35-44,Woman,College degree,8
 48464.0,Non-Managerial Employee,healthcare,USA,White,25-34,Woman,Some college,11
@@ -1408,6 +1410,7 @@ Salary (USD),Job title_Bin,Industry,Country,Race_Bin,Age,Gender_Bin,Highest leve
 129000.0,Management,tech,USA,White,35-44,Woman,College degree,11
 49951.699055000005,Non-Managerial Employee,property,Canada,White,45-54,Woman,Some college,21
 75000.0,Non-Managerial Employee,property,USA,White,35-44,Woman,Master's degree,11
+68490.0,Non-Managerial Employee,manufacturing,USA,White,18-24,Woman,College degree,2
 38000.0,Non-Managerial Employee,business,USA,Mixed Race,18-24,Woman,College degree,2
 193000.0,Management,science,USA,White,35-44,Woman,Master's degree,11
 39000.0,Non-Managerial Employee,business,USA,"Hispanic, Latino, or Spanish origin",25-34,Woman,Some college,5
@@ -1613,6 +1616,7 @@ Salary (USD),Job title_Bin,Industry,Country,Race_Bin,Age,Gender_Bin,Highest leve
 35000.0,Non-Managerial Employee,education,USA,White,18-24,Woman,College degree,2
 48612.0,Non-Managerial Employee,education,USA,White,25-34,Woman,College degree,5
 62000.0,Non-Managerial Employee,education,USA,White,25-34,Woman,Master's degree,5
+59500.0,Non-Managerial Employee,finance,USA,White,25-34,Woman,Master's degree,5
 66500.0,Non-Managerial Employee,tech,USA,White,45-54,Man,College degree,21
 87707.417382,Non-Managerial Employee,tech,UK,White,35-44,Woman,College degree,21
 68000.0,Non-Managerial Employee,tech,USA,White,35-44,Woman,College degree,11
@@ -9698,6 +9702,7 @@ Salary (USD),Job title_Bin,Industry,Country,Race_Bin,Age,Gender_Bin,Highest leve
 85.871097,Non-Managerial Employee,tech,UK,White,25-34,Woman,Master's degree,8
 78000.0,Management,education,USA,White,35-44,Woman,"Professional degree (MD, JD, etc.)",11
 59200.0,Non-Managerial Employee,healthcare,USA,White,35-44,Woman,College degree,5
+39738.501504,Non-Managerial Employee,business,USA,White,25-34,Woman,College degree,8
 394000.0,Non-Managerial Employee,tech,USA,Asian or Asian American,35-44,Other,College degree,11
 113500.0,Director,nonprofit,USA,White,35-44,Woman,College degree,11
 132000.0,Non-Managerial Employee,business,USA,White,35-44,Woman,College degree,11
@@ -14253,6 +14258,7 @@ Salary (USD),Job title_Bin,Industry,Country,Race_Bin,Age,Gender_Bin,Highest leve
 54000.0,Non-Managerial Employee,business,USA,White,35-44,Woman,College degree,8
 86000.0,Non-Managerial Employee,business,USA,Black or African American,25-34,Woman,College degree,5
 190000.0,Non-Managerial Employee,tech,USA,White,35-44,Man,College degree,21
+182000.0,Director,business,USA,White,35-44,Man,Master's degree,8
 74000.0,Director,nonprofit,USA,White,35-44,Woman,Master's degree,11
 79700.0,Management,finance,USA,White,35-44,Woman,College degree,11
 86000.0,Management,nonprofit,USA,White,35-44,Woman,Master's degree,11
@@ -21079,6 +21085,7 @@ Salary (USD),Job title_Bin,Industry,Country,Race_Bin,Age,Gender_Bin,Highest leve
 92200.0,Director,education,USA,White,45-54,Woman,"Professional degree (MD, JD, etc.)",21
 104000.0,Non-Managerial Employee,business,USA,White,25-34,Woman,College degree,8
 42000.0,Non-Managerial Employee,education,USA,White,25-34,Woman,College degree,2
+65000.0,Management,business,USA,White,35-44,Woman,College degree,11
 92000.0,Non-Managerial Employee,education,USA,White,55-64,Woman,Master's degree,11
 67000.0,Director,business,USA,White,25-34,Man,Some college,5
 114000.0,Non-Managerial Employee,business,USA,White,35-44,Woman,College degree,11
@@ -24090,6 +24097,7 @@ Salary (USD),Job title_Bin,Industry,Country,Race_Bin,Age,Gender_Bin,Highest leve
 130000.0,Director,business,USA,White,45-54,Woman,PhD,21
 48946.525290000005,Non-Managerial Employee,healthcare,UK,Black or African American,25-34,Woman,College degree,11
 96000.0,Management,manufacturing,USA,White,25-34,Woman,College degree,5
+147000.0,Management,manufacturing,USA,White,45-54,Woman,College degree,21
 50500.0,Non-Managerial Employee,education,USA,White,25-34,Woman,Master's degree,5
 55000.0,Director,nonprofit,USA,White,35-44,Woman,Master's degree,11
 45966.79256,Non-Managerial Employee,"business,manufacturing",Australia,White,55-64,Woman,College degree,41
