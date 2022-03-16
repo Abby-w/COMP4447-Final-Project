@@ -2,6 +2,8 @@
 Repository for final group project for Data Science Tools 1
 
 ### Program functionality
+Temporary working files for individual's cleaning are included in this repository.
+Primary deliverable files are Data_cleaning.ipynb and Data_analysis.ipynb.
 Data_cleaning file must be run before the Data_analysis file. 
 
 ### GROUP MEMBERS
